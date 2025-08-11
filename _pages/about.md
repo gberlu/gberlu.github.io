@@ -9,20 +9,21 @@ redirect_from:
 
 I am a lecturer in criminology at the University of Surrey. I do research on the social organisation of illicit and unregulated markets, and primarily on the following areas: (i) drug and illicit waste trafficking; (ii) commercial sex markets; (iii) organised crime and illicit markets.
 
-Contact details
------
-Giulia Berlusconi
 
-School of Social Sciences, Sociology
 
-University of Surrey
 
-Guildford GU2 7XH
 
-United Kingdom
 
-Office: 10 AD 03
 
-Tel: +44 (0)1483 686973
 
-Email: g.berlusconi@surrey.ac.uk
+
+
+
+
+
+
+
+
+
+
+
