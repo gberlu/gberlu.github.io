@@ -7,7 +7,7 @@ permalink: 'https://doi.org/10.1080/17440572.2012.746940'
 date: 2012-12-07
 venue: 'Global Crime'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/2013-global-crime.pdf'
+paperurl: 'http://gberlu.github.io/files/2013-global-crime.pdf'
 citation: 'Berlusconi, G. (2013). Do all the pieces matter? Assessing the reliability of law enforcement data sources for the network analysis of wire taps. <i>Global Crime</i>, 14(1), 61-81.'
 ---
 
