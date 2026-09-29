@@ -2,7 +2,7 @@
 title: "Do all the pieces matter? Assessing the reliability of law enforcement data sources for the network analysis of wire taps"
 collection: publications
 category: manuscripts
-permalink: /publication/2013-global-crime
+permalink: 'https://doi.org/10.1080/17440572.2012.746940'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2012-12-07
 venue: 'Global Crime'
